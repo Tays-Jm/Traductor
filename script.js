@@ -78,7 +78,7 @@ function resetDestacados() {
 }
 
 function construirGrafo(data) {
-  const maxPalabras = 500; // AJUSTA CUÁNTAS PALABRAS MOSTRAR
+  const maxPalabras = 10; // AJUSTA CUÁNTAS PALABRAS MOSTRAR
   const dataReducida = data.slice(0, maxPalabras);
 
   const categorias = [...new Set(dataReducida.map(d => d.categoria))];

@@ -90,7 +90,7 @@ body {
   }
 
   #grafo {
-    height: 300px;
+    height: 150px;
   }
 
   #traductor input {
@@ -101,29 +101,4 @@ body {
     font-size: 1rem;
   }
 }
-#instituciones {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1em;
-  flex-wrap: wrap;
-  padding: 1em;
-  
-}
 
-#instituciones img {
-  max-width: 150px;
-  height: auto;
-  object-fit: contain;
-  transition: transform 0.3s ease;
-}
-
-#instituciones img:hover {
-  transform: scale(1.05);
-}
-
-@media (max-width: 768px) {
-  #instituciones img {
-    max-width: 120px;
-  }
-}
