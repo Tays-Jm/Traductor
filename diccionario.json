@@ -1,0 +1,3101 @@
+[
+    {
+      "id": "0001",
+      "es": "casa",
+      "ng": "nchia",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0002",
+      "es": "comer",
+      "ng": "jine",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0003",
+      "es": "bonito",
+      "ng": "chrjuin",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0004",
+      "es": "yo",
+      "ng": "ja'an",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0005",
+      "es": "Caballo",
+      "ng": "kunxin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0006",
+      "es": "Perro",
+      "ng": "kunia",
+      "categoria": "sustantivo"
+    },{
+      "id": "0007",
+      "es": "Pollo",
+      "ng": "kuchia",
+      "categoria": "sustantivo"
+    },{
+      "id": "0008",
+      "es": "Burro",
+      "ng": "kulucho",
+      "categoria": "sustantivo"
+    },{
+      "id": "0009",
+      "es": "Conejo",
+      "ng": "kulaano",
+      "categoria": "sustantivo"
+    },{
+      "id": "0010",
+      "es": "Gato",
+      "ng": "kumichin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0011",
+      "es": "Raton",
+      "ng": "Kunchiixin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0012",
+      "es": "Vibora",
+      "ng": "kunchee",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0013",
+      "es": "Pescado",
+      "ng": "kuchee",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0014",
+      "es": "Cerdo",
+      "ng": "kukuchi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0015",
+      "es": "Guajolote",
+      "ng": "kunthaxijno",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0016",
+      "es": "Coyote",
+      "ng": "kundanixra",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0017",
+      "es": "Pajaro",
+      "ng": "kunthua",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0018",
+      "es": "Aguila",
+      "ng": "kutjatse",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0019",
+      "es": "Gavilan",
+      "ng": "kuxranua",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0020",
+      "es": "Gallo",
+      "ng": "kunthaxichia",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0021",
+      "es": "Toro",
+      "ng": "kuxinthaa",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0022",
+      "es": "Borrego",
+      "ng": "kuthuchjon",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0023",
+      "es": "Chivo",
+      "ng": "kuthentso",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0024",
+      "es": "Tortuga",
+      "ng": "kunchentha",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0025",
+      "es": "Buho",
+      "ng": "kunchia",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0026",
+      "es": "Zopilote",
+      "ng": "kunthachrjen",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0027",
+      "es": "Rana",
+      "ng": "kusania",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0028",
+      "es": "Correcamino",
+      "ng": "kuthununthe",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0029",
+      "es": "Camaron",
+      "ng": "kuxuanda",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0030",
+      "es": "Caracol",
+      "ng": "kuchikajua",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0031",
+      "es": "Murcielago",
+      "ng": "kunchiixin ni'ngo",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0032",
+      "es": "Zorrillo",
+      "ng": "kunthakjan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0033",
+      "es": "Ardilla",
+      "ng": "Kutsijno",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0034",
+      "es": "Tlacuache",
+      "ng": "kunthujin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0035",
+      "es": "Venado",
+      "ng": "kuxijna",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0036",
+      "es": "Zorra",
+      "ng": "kuntha",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0037",
+      "es": "Gato montes",
+      "ng": "kumichin kunthajie",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0038",
+      "es": "Caballo",
+      "ng": "kunxin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0039",
+      "es": "Caballo",
+      "ng": "kunxin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0040",
+      "es": "Gusano",
+      "ng": "kutsindo",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0041",
+      "es": "Chapulin",
+      "ng": "kuxuali",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0042",
+      "es": "Pulga",
+      "ng": "kuncha'a",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0043",
+      "es": "Piojo",
+      "ng": "kuche",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0044",
+      "es": "Avispa",
+      "ng": "kuxiji",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0045",
+      "es": "Mariposa",
+      "ng": "kukapio",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0046",
+      "es": "Liebre",
+      "ng": "kuliichi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0047",
+      "es": "Alacran",
+      "ng": "kunthanchia",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0048",
+      "es": "Hormiga",
+      "ng": "kuchuka",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0049",
+      "es": "Hormiguita",
+      "ng": "kunchuni",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0050",
+      "es": "Araña",
+      "ng": "kuthuchje",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0051",
+      "es": "Cienpies",
+      "ng": "kunchekanthjan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0052",
+      "es": "Salandra",
+      "ng": "kunthuinda",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0053",
+      "es": "Mosca",
+      "ng": "kuxiisen",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0054",
+      "es": "Zancudo",
+      "ng": "kunthario'o",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0055",
+      "es": "Pajaro Carpintero",
+      "ng": "kunthachikapi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0056",
+      "es": "Colibri",
+      "ng": "kunixi'an",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0057",
+      "es": "Golondrina",
+      "ng": "kunthaxenchin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0058",
+      "es": "Tehuacanera",
+      "ng": "kuthon",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0059",
+      "es": "Paloma",
+      "ng": "Kunthuanajni",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0060",
+      "es": "Garrapata",
+      "ng": "kutsee",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0061",
+      "es": "Cocopache",
+      "ng": "kuthinthaa",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0062",
+      "es": "Tecol",
+      "ng": "kunixi'an",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0063",
+      "es": "Capulincillo",
+      "ng": "kuthuchjelenchi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0064",
+      "es": "Cascabel",
+      "ng": "kuchinxin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0065",
+      "es": "Maiz",
+      "ng": "nua",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0066",
+      "es": "Frijol",
+      "ng": "jma",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0067",
+      "es": "Haba",
+      "ng": "jmaaba",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0068",
+      "es": "Milpa",
+      "ng": "jino̱",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0070",
+      "es": "Hilo",
+      "ng": "jino",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0071",
+      "es": "Elote",
+      "ng": "thin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0072",
+      "es": "Zacate",
+      "ng": "kane",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0073",
+      "es": "Nixtamal",
+      "ng": "nune",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0074",
+      "es": "Olote",
+      "ng": "thujna",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0075",
+      "es": "Huitlacoche",
+      "ng": "kuchjruiꞌi no̱",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0076",
+      "es": "Mazorca",
+      "ng": "ni̱i̱",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0077",
+      "es": "Tortilla",
+      "ng": "nio",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0078",
+      "es": "Molcajete",
+      "ng": "nithe",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0079",
+      "es": "Temolote de molcajete",
+      "ng": "ñao nithe",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0080",
+      "es": "Olla",
+      "ng": "chi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0081",
+      "es": "Plato de barro",
+      "ng": "lenchi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0082",
+      "es": "Metate",
+      "ng": "xruchri",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0083",
+      "es": "Temolote de metate",
+      "ng": "xruthja",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0084",
+      "es": "Comal",
+      "ng": "nchitja",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0085",
+      "es": "Fogon",
+      "ng": "giꞌi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0086",
+      "es": "Leña",
+      "ng": "nthanioꞌo",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0087",
+      "es": "Fuego",
+      "ng": "xruꞌi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0088",
+      "es": "Chinamite",
+      "ng": "nthakaxiji",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0089",
+      "es": "Silla",
+      "ng": "nthaxintaon",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0090",
+      "es": "Mesa",
+      "ng": "nthanchaon",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0091",
+      "es": "Tenate",
+      "ng": "xincha",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0092",
+      "es": "Ropa",
+      "ng": "luntho",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0093",
+      "es": "Sombrero",
+      "ng": "xranchritja",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0094",
+      "es": "Calzon",
+      "ng": "kacha",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0095",
+      "es": "Pantalon",
+      "ng": "kachamanta",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0096",
+      "es": "Zapato",
+      "ng": "therua",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0097",
+      "es": "Huarache",
+      "ng": "kathe",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0098",
+      "es": "Cobija",
+      "ng": "Nuxra",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0099",
+      "es": "Reboso",
+      "ng": "ruthe",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0100",
+      "es": "Fruta",
+      "ng": "thuchjuin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0101",
+      "es": "Piña",
+      "ng": "thusako",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0102",
+      "es": "Tuna",
+      "ng": "xichre",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0103",
+      "es": "Pitaya",
+      "ng": "xechjian",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0104",
+      "es": "Xoconostle",
+      "ng": "xensan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0105",
+      "es": "Pitajaya",
+      "ng": "xechian najni",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0106",
+      "es": "Naranja",
+      "ng": "thunsan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0107",
+      "es": "Limon",
+      "ng": "thusan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0108",
+      "es": "Aguacate",
+      "ng": "thunua",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0109",
+      "es": "Platano",
+      "ng": "thunthaxraꞌo",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0110",
+      "es": "Manzana",
+      "ng": "thusuꞌin najni",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0111",
+      "es": "Nanche",
+      "ng": "thusuꞌin",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0112",
+      "es": "Calabaza",
+      "ng": "cho",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0113",
+      "es": "Jitomate",
+      "ng": "xhuthi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0114",
+      "es": "Tomatillo",
+      "ng": "xuthika",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0115",
+      "es": "Chile",
+      "ng": "jnayua",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0116",
+      "es": "Chayote",
+      "ng": "thunchaꞌa",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0117",
+      "es": "papa",
+      "ng": "thukja",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0118",
+      "es": "Cebolla",
+      "ng": "thujnthi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0119",
+      "es": "Flor",
+      "ng": "tsjo",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0120",
+      "es": "Cacahuate",
+      "ng": "chunche",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0121",
+      "es": "Nopal",
+      "ng": "kantha",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0122",
+      "es": "Carne",
+      "ng": "nthao",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0123",
+      "es": "Chicharron",
+      "ng": "chalo",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0124",
+      "es": "Barbacoa",
+      "ng": "nthauthja",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0125",
+      "es": "Mole",
+      "ng": "ndaxrajatse",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0126",
+      "es": "Cafe",
+      "ng": "ndaseen(bebida)-seen(color)",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0127",
+      "es": "Atole",
+      "ng": "ndadoꞌo",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0128",
+      "es": "Agua",
+      "ng": "jinda",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0129",
+      "es": "Refresco",
+      "ng": "ndatsjen",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0130",
+      "es": "Miel",
+      "ng": "tsjen",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0131",
+      "es": "Sal",
+      "ng": "xijntha",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0132",
+      "es": "Azucar",
+      "ng": "tsjen",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0133",
+      "es": "Dulce",
+      "ng": "tsjen",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0134",
+      "es": "Camilla",
+      "ng": "nthaton",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0135",
+      "es": "Hueso",
+      "ng": "luuro",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0136",
+      "es": "Cabello",
+      "ng": "xrachje",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0137",
+      "es": "Oreja",
+      "ng": "ndatsjon",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0138",
+      "es": "Niño",
+      "ng": "xichjan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0139",
+      "es": "Niña",
+      "ng": "nchrichjan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0140",
+      "es": "Joven",
+      "ng": "xanxii",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0141",
+      "es": "Señorita",
+      "ng": "xanchrii",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0142",
+      "es": "Hombre",
+      "ng": "xii",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0143",
+      "es": "Mujer",
+      "ng": "nchrii",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0144",
+      "es": "Señora",
+      "ng": "naniita",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0145",
+      "es": "Señor",
+      "ng": "tathiita",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0146",
+      "es": "Anciano",
+      "ng": "nthaxichjan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0147",
+      "es": "Anciana",
+      "ng": "nachrichjan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0148",
+      "es": "Gente",
+      "ng": "chujni",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0149",
+      "es": "Niño",
+      "ng": "xichjan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0150",
+      "es": "Hierba",
+      "ng": "ka",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0151",
+      "es": "Sacerdote",
+      "ng": "Daana",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0152",
+      "es": "Bolsa",
+      "ng": "puuxa",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0153",
+      "es": "Uno",
+      "ng": "naa",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0154",
+      "es": "Dos",
+      "ng": "yoo",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0155",
+      "es": "Tres",
+      "ng": "nii",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0156",
+      "es": "Cuatro",
+      "ng": "noo",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0157",
+      "es": "Cinco",
+      "ng": "na'o",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0158",
+      "es": "Seis",
+      "ng": "inkjaon",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0159",
+      "es": "Siete",
+      "ng": "yaato",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0160",
+      "es": "Ocho",
+      "ng": "jni",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0161",
+      "es": "Nueve",
+      "ng": "na̱a̱",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0162",
+      "es": "Diez",
+      "ng": "the",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0163",
+      "es": "Once",
+      "ng": "thejngo",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0164",
+      "es": "Doce",
+      "ng": "theyoo",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0165",
+      "es": "Trece",
+      "ng": "thenii",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0166",
+      "es": "Catorce",
+      "ng": "thenoo",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0167",
+      "es": "Mano",
+      "ng": "raa ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0168",
+      "es": "Ojo",
+      "ng": "makon ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0169",
+      "es": "Dedo",
+      "ng": "kon raa ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0170",
+      "es": "Cabeza",
+      "ng": "jaa ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0171",
+      "es": "Higado",
+      "ng": "ñao ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0172",
+      "es": "Corazon",
+      "ng": "anseen ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0173",
+      "es": "Nariz",
+      "ng": "chintjon ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0174",
+      "es": "Cara",
+      "ng": "ngakon ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0175",
+      "es": "Cuello",
+      "ng": "thusin ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0176",
+      "es": "Estomago",
+      "ng": "tseꞌe ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0177",
+      "es": "Rodilla",
+      "ng": "nthajuchi",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0178",
+      "es": "Pierna",
+      "ng": "nthatsao ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0179",
+      "es": "Tobillo",
+      "ng": "chintjon ruthee ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0180",
+      "es": "Trasero",
+      "ng": "chreen ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0181",
+      "es": "Talon",
+      "ng": "chreen ruthee ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0182",
+      "es": "Nuca",
+      "ng": "xrujna jaa ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0183",
+      "es": "Hombro",
+      "ng": "nthacheen ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0184",
+      "es": "Ombligo",
+      "ng": "chijno",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0185",
+      "es": "Pestaña",
+      "ng": "xrakon ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0186",
+      "es": "Cintura",
+      "ng": "nthachajno",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0187",
+      "es": "Frente",
+      "ng": "Nthathjen ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0188",
+      "es": "Diente",
+      "ng": "Neno ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0189",
+      "es": "Lengua",
+      "ng": "nejen ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0190",
+      "es": "Costilla",
+      "ng": "nthakuin ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0191",
+      "es": "Espalda",
+      "ng": "Ngaa nthakuin ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0192",
+      "es": "Paladar",
+      "ng": "kathee ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0193",
+      "es": "Boca",
+      "ng": "ruꞌa ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0194",
+      "es": "Barbilla",
+      "ng": "nthariue ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0195",
+      "es": "Cerebro",
+      "ng": "thjele",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0196",
+      "es": "Intestino",
+      "ng": "tsejno",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0197",
+      "es": "Pulmon",
+      "ng": "ñao chrjen ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0198",
+      "es": "Vesicula",
+      "ng": "chikee ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0199",
+      "es": "Vientre",
+      "ng": "tsenchinchjan",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0200",
+      "es": "Riñon",
+      "ng": "thuluniꞌi ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0201",
+      "es": "Bigote",
+      "ng": "xrarruꞌa ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0202",
+      "es": "Bellos",
+      "ng": "xra",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0203",
+      "es": "Uña",
+      "ng": "chingue ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0205",
+      "es": "Encias",
+      "ng": "chitee ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0206",
+      "es": "Codo",
+      "ng": "nthajuchi raa ni",
+      "categoria": "sustantivo posesivo"
+    },
+    {
+      "id": "0207",
+      "es": "Tú",
+      "ng": "jaꞌa",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0208",
+      "es": "Él",
+      "ng": "jeꞌe",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0209",
+      "es": "Aquel",
+      "ng": "thiꞌa",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0210",
+      "es": "Ese",
+      "ng": "thimee",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0211",
+      "es": "Nosotros",
+      "ng": "jaꞌan ná",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0212",
+      "es": "Ellos",
+      "ng": "jeꞌe na̱",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0213",
+      "es": "Ustedes",
+      "ng": "jaꞌa ra",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0214",
+      "es": "Eso",
+      "ng": "yaa",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0215",
+      "es": "Aquellos",
+      "ng": "thi taꞌa",
+      "categoria": "pronombres"
+    },
+    {
+      "id": "0216",
+      "es": "Grande",
+      "ng": "jié",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0217",
+      "es": "Pequeño",
+      "ng": "nchiin",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0218",
+      "es": "Gordo",
+      "ng": "nthao",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0219",
+      "es": "Alto",
+      "ng": "jini",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0220",
+      "es": "Largo",
+      "ng": "jini",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0221",
+      "es": "Duro",
+      "ng": "cha",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0222",
+      "es": "Blando",
+      "ng": "Nda",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0223",
+      "es": "Debil",
+      "ng": "sujiꞌa",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0224",
+      "es": "Fuerte",
+      "ng": "suji",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0225",
+      "es": "Seco",
+      "ng": "xema",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0226",
+      "es": "Verde",
+      "ng": "yua",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0227",
+      "es": "Picoso",
+      "ng": "che",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0228",
+      "es": "Flojo",
+      "ng": "seꞌe",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0229",
+      "es": "Feliz",
+      "ng": "chee",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0230",
+      "es": "Triste",
+      "ng": "jichiin",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0231",
+      "es": "Negro",
+      "ng": "thie",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0232",
+      "es": "Delgado",
+      "ng": "jno",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0233",
+      "es": "Limpio",
+      "ng": "thjua",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0234",
+      "es": "Sucio",
+      "ng": "chimeco",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0235",
+      "es": "Escaso",
+      "ng": "chjunga",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0236",
+      "es": "Rojo",
+      "ng": "jatse",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0237",
+      "es": "Lleno",
+      "ng": "jichre",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0238",
+      "es": "Amarillo",
+      "ng": "sine",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0239",
+      "es": "Azul",
+      "ng": "reyua",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0240",
+      "es": "Guero",
+      "ng": "thjuangi",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0241",
+      "es": "Maduro",
+      "ng": "dicha",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0242",
+      "es": "Tierno",
+      "ng": "letsjo",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0243",
+      "es": "Viejo",
+      "ng": "joon",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0244",
+      "es": "Desgastado",
+      "ng": "linchren",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0245",
+      "es": "Roto",
+      "ng": "dichje",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0246",
+      "es": "Quemado",
+      "ng": "diche",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0247",
+      "es": "Podrido",
+      "ng": "dirrenga",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0248",
+      "es": "Otro",
+      "ng": "inaa",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0249",
+      "es": "Grande",
+      "ng": "jié",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0250",
+      "es": "Amargo",
+      "ng": "tsja",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0251",
+      "es": "Diferente",
+      "ng": "jee",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0252",
+      "es": "Bueno",
+      "ng": "jian",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0253",
+      "es": "Malo",
+      "ng": "jianꞌa",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0254",
+      "es": "Grueso",
+      "ng": "jieto",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0255",
+      "es": "Flaco",
+      "ng": "lantha",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0256",
+      "es": "Payaso",
+      "ng": "lantha",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0257",
+      "es": "Sabroso",
+      "ng": "jni",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0258",
+      "es": "Dificil",
+      "ng": "tangi",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0259",
+      "es": "Facil",
+      "ng": "tangiꞌa",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0260",
+      "es": "Lejos",
+      "ng": "kjín",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0261",
+      "es": "Cerca",
+      "ng": "chiaon",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0262",
+      "es": "Valiente",
+      "ng": "xraonꞌa",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0263",
+      "es": "Miedoso",
+      "ng": "xraon",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0264",
+      "es": "Frio",
+      "ng": "kin",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0265",
+      "es": "Caliente",
+      "ng": "sua",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0266",
+      "es": "Caro",
+      "ng": "renthe",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0267",
+      "es": "Barato",
+      "ng": "rentheꞌa",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0268",
+      "es": "Brillante",
+      "ng": "dakima",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0269",
+      "es": "Sabio",
+      "ng": "jian juaxraxaon",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0270",
+      "es": "Tonto",
+      "ng": "xraja",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0271",
+      "es": "Necio",
+      "ng": "cha thinxin",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0272",
+      "es": "Calvo",
+      "ng": "xulo jaa",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0273",
+      "es": "Descalzo",
+      "ng": "xulo ruthee",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0274",
+      "es": "Desnudo",
+      "ng": "thulucho nthao",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0275",
+      "es": "Confundido",
+      "ng": "ditjanjin",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0276",
+      "es": "Peligroso",
+      "ng": "ditsi",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0276",
+      "es": "Delicado",
+      "ng": "nthueꞌe",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0277",
+      "es": "Hichado",
+      "ng": "digatjue",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0278",
+      "es": "Sordo",
+      "ng": "kuxro",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0279",
+      "es": "Mudo",
+      "ng": "thapo",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0280",
+      "es": "Recto",
+      "ng": "nao(Dirección)",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0281",
+      "es": "Orgulloso",
+      "ng": "taꞌin ñao",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0282",
+      "es": "Roto",
+      "ng": "dikai",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0282",
+      "es": "Resbaloso",
+      "ng": "ꞌndo",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0283",
+      "es": "Liso",
+      "ng": "ꞌndo",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0284",
+      "es": "Plano",
+      "ng": "nataunxin",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0285",
+      "es": "Pobre",
+      "ng": "nua",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0286",
+      "es": "Hondo",
+      "ng": "niꞌnga",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0287",
+      "es": "Profundo",
+      "ng": "niꞌnga",
+      "categoria": "adjetivo"
+    },
+    {
+      "id": "0288",
+      "es": "Jugar",
+      "ng": "tsuntaon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0289",
+      "es": "Alisar",
+      "ng": "dame'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0290",
+      "es": "Descargar",
+      "ng": "dankaji'in",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0291",
+      "es": "Visitar",
+      "ng": "ditsje'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0292",
+      "es": "Sostener",
+      "ng": "ke'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0293",
+      "es": "Colar",
+      "ng": "tangi'i",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0294",
+      "es": "Cambiar",
+      "ng": "thentuxi'in",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0295",
+      "es": "Remendar",
+      "ng": "theye'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0296",
+      "es": "Oir",
+      "ng": "thi'in",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0297",
+      "es": "Dolor",
+      "ng": "thiin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0298",
+      "es": "Escapar",
+      "ng": "thinge'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0299",
+      "es": "Dejar",
+      "ng": "thinthu'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0300",
+      "es": "Tirar",
+      "ng": "thingo - danka",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0301",
+      "es": "Alegrar",
+      "ng": "chee",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0302",
+      "es": "Enfermar",
+      "ng": "ni'i",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0303",
+      "es": "Eructar",
+      "ng": "tuje'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0304",
+      "es": "Nacer",
+      "ng": "kunkji'i",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0305",
+      "es": "Correr",
+      "ng": "thinga",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0306",
+      "es": "Abrazar",
+      "ng": "tjuua",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0307",
+      "es": "Querer",
+      "ng": "rinao",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0308",
+      "es": "Amar",
+      "ng": "thjuua",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0309",
+      "es": "Caer",
+      "ng": "betsinga",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0310",
+      "es": "Cantar",
+      "ng": "tsje",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0311",
+      "es": "Bailar",
+      "ng": "the",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0312",
+      "es": "Cocer",
+      "ng": "tjaon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0313",
+      "es": "Hervir",
+      "ng": "xruthe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0314",
+      "es": "Dormir",
+      "ng": "dejua",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0315",
+      "es": "Brincar",
+      "ng": "chrinka",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0316",
+      "es": "Bañar",
+      "ng": "tsinda",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0317",
+      "es": "Caminar",
+      "ng": "thji",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0318",
+      "es": "Saltar",
+      "ng": "chrinka",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0319",
+      "es": "Estornudar",
+      "ng": "tjon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0320",
+      "es": "Pelear",
+      "ng": "tjaaya",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0321",
+      "es": "Golpear",
+      "ng": "dintja",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0322",
+      "es": "Asustar",
+      "ng": "nchexraon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0323",
+      "es": "Oler",
+      "ng": "tuxre'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0324",
+      "es": "Hacer",
+      "ng": "nchechjian",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0325",
+      "es": "Moler",
+      "ng": "da'o",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0326",
+      "es": "Soñar",
+      "ng": "tuxinxin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0327",
+      "es": "Comprar",
+      "ng": "the'na",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0328",
+      "es": "Pagar",
+      "ng": "thjenga'na",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0329",
+      "es": "Pedir",
+      "ng": "danchia",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0330",
+      "es": "Fiar",
+      "ng": "dajunjie",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0331",
+      "es": "Sentar",
+      "ng": "de'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0332",
+      "es": "Reir",
+      "ng": "tjano",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0333",
+      "es": "Llorar",
+      "ng": "tsjanga",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0334",
+      "es": "Ir",
+      "ng": "thji",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0335",
+      "es": "Venir",
+      "ng": "thii",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0336",
+      "es": "Nadar",
+      "ng": "tsindangi",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0337",
+      "es": "Cortar",
+      "ng": "daaña",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0338",
+      "es": "Picar",
+      "ng": "dinche",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0339",
+      "es": "Quebrar",
+      "ng": "tundai",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0340",
+      "es": "Decir",
+      "ng": "ndachro",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0341",
+      "es": "Prender",
+      "ng": "nchegakin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0342",
+      "es": "Barrer",
+      "ng": "dajon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0343",
+      "es": "Dar",
+      "ng": "dajon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0344",
+      "es": "Bajar",
+      "ng": "dania",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0345",
+      "es": "Subir",
+      "ng": "tani",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0346",
+      "es": "Ladrar",
+      "ng": "nchejna",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0347",
+      "es": "Tomar",
+      "ng": "di'i",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0348",
+      "es": "Toser",
+      "ng": "thje",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0349",
+      "es": "Lavar",
+      "ng": "thjeen",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0350",
+      "es": "Buscar",
+      "ng": "thjee",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0351",
+      "es": "Robar",
+      "ng": "tsee",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0352",
+      "es": "Tocar",
+      "ng": "dinga",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0353",
+      "es": "Abrir",
+      "ng": "danthjee",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0354",
+      "es": "Encerrar",
+      "ng": "thiaxi'in",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0355",
+      "es": "Mirar",
+      "ng": "tsje'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0356",
+      "es": "Ver",
+      "ng": "dikon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0357",
+      "es": "pellizcar",
+      "ng": "tsengo",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0358",
+      "es": "Parar",
+      "ng": "thengatjen",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0359",
+      "es": "Vomitar",
+      "ng": "tunkjan",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0360",
+      "es": "Regresar",
+      "ng": "tunkjan",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0361",
+      "es": "Enseñar",
+      "ng": "tjague",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0362",
+      "es": "Vender",
+      "ng": "nchekji",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0363",
+      "es": "Vestir",
+      "ng": "dithuxi'in",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0364",
+      "es": "Curar",
+      "ng": "tuxrue'en",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0365",
+      "es": "Sanar",
+      "ng": "xingame'en",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0366",
+      "es": "Despertar",
+      "ng": "xingame'en",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0367",
+      "es": "Calentar",
+      "ng": "ncheyaaso",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0368",
+      "es": "Aguantar",
+      "ng": "thixi'in",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0369",
+      "es": "Empezar",
+      "ng": "thexi'in",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0370",
+      "es": "Poner",
+      "ng": "dake'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0371",
+      "es": "Sorprender",
+      "ng": "thise'en",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0372",
+      "es": "Honrar",
+      "ng": "nchesaye'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0373",
+      "es": "Agradecer",
+      "ng": "thexruxi'in",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0374",
+      "es": "Gritar",
+      "ng": "tuyao",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0375",
+      "es": "Encender",
+      "ng": "nchiakaon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0376",
+      "es": "Montar",
+      "ng": "deta'a",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0377",
+      "es": "Encontrar",
+      "ng": "dithja",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0378",
+      "es": "Apagar",
+      "ng": "ncheganga",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0379",
+      "es": "Pensar",
+      "ng": "xraxaon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0380",
+      "es": "Alzar",
+      "ng": "datsiin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0381",
+      "es": "Cargar",
+      "ng": "tama",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0382",
+      "es": "Llegar",
+      "ng": "diji",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0383",
+      "es": "Platicar",
+      "ng": "tjao",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0384",
+      "es": "Hablar",
+      "ng": "nichja",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0385",
+      "es": "Engañar",
+      "ng": "ncheeya",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0386",
+      "es": "Morder",
+      "ng": "ne'e",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0387",
+      "es": "Agarrar",
+      "ng": "tse",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0388",
+      "es": "Arrastrar",
+      "ng": "thingajin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0389",
+      "es": "Gatear",
+      "ng": "thingania",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0390",
+      "es": "Sacar",
+      "ng": "dantsje",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0391",
+      "es": "Contar",
+      "ng": "thekin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0392",
+      "es": "Esconder",
+      "ng": "thema",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0393",
+      "es": "Amarrar",
+      "ng": "thia - thenchrua",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0394",
+      "es": "sembrar",
+      "ng": "thenga",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0395",
+      "es": "Echar",
+      "ng": "thenga'a",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0396",
+      "es": "Aventar",
+      "ng": "tja",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0397",
+      "es": "Disimular",
+      "ng": "nchexon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0398",
+      "es": "Levantar",
+      "ng": "datsiin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0399",
+      "es": "Escribir",
+      "ng": "kji̱n",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0400",
+      "es": "Pixcar",
+      "ng": "tanda",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0401",
+      "es": "Recoger",
+      "ng": "datse",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0402",
+      "es": "Discutir",
+      "ng": "thuyauthe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0403",
+      "es": "Colgar",
+      "ng": "therianda",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0404",
+      "es": "Adornar",
+      "ng": "nchetsujin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0405",
+      "es": "Afilar",
+      "ng": "ncheyao",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0406",
+      "es": "Amontonar",
+      "ng": "dasintja",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0407",
+      "es": "Tejer",
+      "ng": "ta̱a̱",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0408",
+      "es": "Avisar",
+      "ng": "nchenuꞌe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0409",
+      "es": "Escarbar",
+      "ng": "nge",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0410",
+      "es": "Enterrar",
+      "ng": "tjabaa",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0411",
+      "es": "Rasgar",
+      "ng": "thinchje",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0412",
+      "es": "Envolver",
+      "ng": "thinsia",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0413",
+      "es": "Arrodillar",
+      "ng": "dethuxin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0414",
+      "es": "Saludar",
+      "ng": "dajon juajna",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0415",
+      "es": "Escoger",
+      "ng": "thinchieꞌe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0416",
+      "es": "Agachar",
+      "ng": "disee",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0417",
+      "es": "Acostar",
+      "ng": "thenjua",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0418",
+      "es": "Alumbrar",
+      "ng": "nchengasaan",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0419",
+      "es": "Respirar",
+      "ng": "ta thee",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0420",
+      "es": "Suspirar",
+      "ng": "daaba",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0421",
+      "es": "Limpiar",
+      "ng": "ncherua - duni",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0422",
+      "es": "Crecer",
+      "ng": "dangi",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0423",
+      "es": "Pasar",
+      "ng": "datho",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0424",
+      "es": "Confundir",
+      "ng": "tjajin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0425",
+      "es": "Peinar",
+      "ng": "nchejinjin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0426",
+      "es": "Amamantar",
+      "ng": "nchekai",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0427",
+      "es": "Cansar",
+      "ng": "nchechrjen",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0428",
+      "es": "Adelgazar",
+      "ng": "tjulantha",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0429",
+      "es": "Brillar",
+      "ng": "dakima",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0430",
+      "es": "Despertar",
+      "ng": "xingame'en",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0431",
+      "es": "Cuidar",
+      "ng": "dakuꞌen",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0432",
+      "es": "Masticar",
+      "ng": "nechje",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0433",
+      "es": "Escuchar",
+      "ng": "thiꞌin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0434",
+      "es": "Calmar",
+      "ng": "thenta",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0435",
+      "es": "Estirar",
+      "ng": "thinxe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0436",
+      "es": "Acarrear",
+      "ng": "dayaa - dathe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0437",
+      "es": "Manejar",
+      "ng": "deka",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0438",
+      "es": "Morir",
+      "ng": "deꞌen",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0439",
+      "es": "Desmayar",
+      "ng": "denda",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0440",
+      "es": "Resucitar",
+      "ng": "xechon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0441",
+      "es": "Llamar",
+      "ng": "dayee",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0442",
+      "es": "Recibir",
+      "ng": "dayee",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0443",
+      "es": "Alejar",
+      "ng": "nchekjín",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0444",
+      "es": "Sufrir",
+      "ng": "dathuꞌe tangi",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0445",
+      "es": "Sonar",
+      "ng": "nchekunkjan",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0446",
+      "es": "Soltar",
+      "ng": "tanchrjanda",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0447",
+      "es": "Hinchar",
+      "ng": "digatjue",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0448",
+      "es": "Sudar",
+      "ng": "tjaꞌin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0449",
+      "es": "Temblar",
+      "ng": "xranga",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0450",
+      "es": "Tlachicar",
+      "ng": "tajin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0451",
+      "es": "Añadir",
+      "ng": "thinkjon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0452",
+      "es": "Unir",
+      "ng": "thenkjon",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0453",
+      "es": "Medir",
+      "ng": "dathuchuꞌa",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0454",
+      "es": "Pintar",
+      "ng": "thengaxin",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0455",
+      "es": "Volar",
+      "ng": "tjaganga",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0456",
+      "es": "Desenredar",
+      "ng": "ncheduꞌe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0457",
+      "es": "Desatar",
+      "ng": "tunxindangeꞌe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0458",
+      "es": "Beber",
+      "ng": "diꞌi",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0459",
+      "es": "Construir",
+      "ng": "thethe",
+      "categoria": "verbo"
+    },
+    {
+      "id": "0460",
+      "es": "Hoy",
+      "ng": "jai",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0461",
+      "es": "Mañana",
+      "ng": "ndue(día)-dakao(tiempo)",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0462",
+      "es": "Ayer",
+      "ng": "jna",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0463",
+      "es": "Pasado mañana",
+      "ng": "rejngi",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0464",
+      "es": "Anteayer",
+      "ng": "rejna",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0465",
+      "es": "Madrugada",
+      "ng": "nduuyo",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0466",
+      "es": "Temprano",
+      "ng": "dakao",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0467",
+      "es": "Amanecer",
+      "ng": "dingasantaon",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0468",
+      "es": "En la mañana",
+      "ng": "chungiixin",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0469",
+      "es": "Medio día",
+      "ng": "ngusine nchaꞌon",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0470",
+      "es": "Tarde",
+      "ng": "tsukjin",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0471",
+      "es": "Atardecer",
+      "ng": "diataon nchaꞌon",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0472",
+      "es": "Anochecer",
+      "ng": "jitunthi̱e",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "473",
+      "es": "Noche",
+      "ng": "thi̱e - naxinxeꞌe",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0474",
+      "es": "Media noche",
+      "ng": "ngusine thi̱e",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0475",
+      "es": "Apenas",
+      "ng": "najai",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0476",
+      "es": "Despues",
+      "ng": "kuthimeja",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0477",
+      "es": "Luego",
+      "ng": "kuthimeja",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0478",
+      "es": "Todo",
+      "ng": "ngui",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0479",
+      "es": "Más",
+      "ng": "icha",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0480",
+      "es": "Ahora",
+      "ng": "jaxon",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0481",
+      "es": "También",
+      "ng": "kaxon",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0482",
+      "es": "Poco",
+      "ng": "nchion",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0483",
+      "es": "Mucho",
+      "ng": "anto",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0484",
+      "es": "Demasiado",
+      "ng": "atho",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0485",
+      "es": "Bien",
+      "ng": "nchao",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0486",
+      "es": "Siempre",
+      "ng": "kain nchaꞌon",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0487",
+      "es": "Aquí",
+      "ng": "nthiꞌi",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0488",
+      "es": "Allá",
+      "ng": "nthiꞌa",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0489",
+      "es": "Afuera",
+      "ng": "nduja",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0490",
+      "es": "Dentro",
+      "ng": "ngaxiꞌin",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0491",
+      "es": "Nada",
+      "ng": "xruꞌin",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0492",
+      "es": "Pronto",
+      "ng": "tuin",
+      "categoria": "adverbios"
+    },
+    {
+      "id": "0493",
+      "es": "Mezquite",
+      "ng": "nthatsja",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0494",
+      "es": "Pirul",
+      "ng": "nthaka",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0495",
+      "es": "Izote",
+      "ng": "nthaxra'o",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0496",
+      "es": "Maguey",
+      "ng": "kachro",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0497",
+      "es": "Sabila",
+      "ng": "kachrunajni",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0498",
+      "es": "Hualacate",
+      "ng": "nthaxechjian",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0499",
+      "es": "Piedra",
+      "ng": "xro",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0500",
+      "es": "Tierra",
+      "ng": "jinche",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0501",
+      "es": "Color",
+      "ng": "na'o",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0502",
+      "es": "Guaje",
+      "ng": "nchitsje",
+      "categoria": "sustantivo"
+    },
+    {
+      "id": "0503",
+      "es": "Catorce",
+      "ng": "thenoo",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0504",
+      "es": "Quince",
+      "ng": "thena'o",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0505",
+      "es": "Dieciséis",
+      "ng": "theinkjaon",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0506",
+      "es": "Diecisiete",
+      "ng": "theyatoo",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0507",
+      "es": "thejní",
+      "ng": "thenoo",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0508",
+      "es": "Diecinueve",
+      "ng": "thena̱a̱",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0509",
+      "es": "Veinte",
+      "ng": "kan",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0510",
+      "es": "Treinta",
+      "ng": "kan ko the",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0511",
+      "es": "Cuarenta",
+      "ng": "yoo kan",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0512",
+      "es": "Cincuenta",
+      "ng": "yoo kan ko the",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0513",
+      "es": "Sesenta",
+      "ng": "nii kan",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0514",
+      "es": "Setenta",
+      "ng": "nii kan ko the",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0515",
+      "es": "Ochenta",
+      "ng": "noo kan",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0516",
+      "es": "Noventa",
+      "ng": "noo kan ko the",
+      "categoria": "numeros"
+    },
+    {
+      "id": "0517",
+      "es": "Cien",
+      "ng": "naa renkia",
+      "categoria": "numeros"
+    }
+  ]
+  

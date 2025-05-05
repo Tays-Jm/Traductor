@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Traductor Boseto - Grafo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="contenedor">
+    <div id="traductor">
+      <center>
+
+        <input id="inputPalabra" placeholder="Escribe en español…">
+        <span id="resultado"></span>
+      </center>
+      <div id="leyenda"></div>
+      <h4>Este es un primer borrador del traductor, aún queda mucho por mejorar. Por lo que cuenta con un sistema de predicción basado en el valor de las palabras, según el orden establecido en su programación.
+        A medida que se va formando la palabra deseada, se mostrará su traducción. Gracias.
+      </h4>
+    </div>
+    
+    <div id="grafo">
+    </div>
+    
+  </div>
+ 
+  
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
