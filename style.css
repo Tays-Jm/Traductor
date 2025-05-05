@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url('Imagenes/Fondo.png');
+  background-image: url('Imagenes/Fondo.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -13,7 +13,6 @@ body {
   flex-direction: row;
   height: 100vh;
   overflow: hidden;
-  margin-top: 50px;
 }
 
 #traductor {
@@ -102,3 +101,41 @@ body {
   }
 }
 
+
+
+#encabezado {
+  text-align: center;
+  padding: 2em 1em 0 1em;
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+#logos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-bottom: 1em;
+  border-radius: 7px;
+}
+
+#logos img {
+  border-radius: 7px;
+  height: 100px;
+}
+
+#titulo {
+  font-size: 4em;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  #titulo {
+    font-size: 2.5em;
+  }
+
+  #logos img {
+    max-width: 70px;
+  }
+}
